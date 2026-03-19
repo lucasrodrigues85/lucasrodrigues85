@@ -108,11 +108,11 @@ MODEM (ISP)
 
 <div align="center">
 
-<a href="mailto:SEU_EMAIL_AQUI">
+<a href="mailto:lucas@scienceweb.com.br">
   <img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C">
 </a>
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="https://linkedin.com/in/lucasmrodrigues85">
   <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C">
 </a>
 
